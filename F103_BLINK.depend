@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1561072136 source:c:\em_projects\f103_blink\src\main.c
+	"stm32f10x.h"
+
+1561049923 c:\em_projects\f103_blink\src\stm32f10x.h
+	"core_cm3.h"
+
+1561038266 c:\em_projects\f103_blink\src\core_cm3.h
+	<stdint.h>
+	<core_cmInstr.h>
+	<core_cmFunc.h>
+
+1561062489 source:c:\em_projects\f103_blink\src\startup_stm32f10x_ld_vl.s
+
